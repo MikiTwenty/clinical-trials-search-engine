@@ -8,7 +8,7 @@ Clinical Trials Search Engine for Information Retrieval and Recommender System P
 
 This project has been developed for academical purposes only.
 
-This project is released under the [GNU General Public Licence](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/LICENCE).
+This project is released under the [GNU General Public Licence](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/LICENSE).
 
 ---
 

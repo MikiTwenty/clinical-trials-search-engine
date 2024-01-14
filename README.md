@@ -85,6 +85,10 @@ Initialize the **Graphical User Interface** (powered by [NiceGUI](https://nicegu
 
 Initialize the SE and start the GUI.
 
+## Example
+
+Look at the script [run.py](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/examples/run.py)
+
 ---
 
 # Info

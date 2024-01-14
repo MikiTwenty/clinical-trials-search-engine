@@ -16,7 +16,7 @@ It facilitates interaction with the underlying Pipeline for processing and evalu
 
 # Standard Library
 import os
-from typing import Union, List, Dict, Optional
+from typing import Union, List, Dict
 
 # Third-Party
 from nicegui import ui
@@ -36,7 +36,7 @@ class GUI:
     @typechecked
     def __init__(
             self,
-            paths: Optional[Dict[str, str]] = None,
+            paths: Dict[str, str],
             verbose: bool = False,
             _dev: bool = False
         ) -> None:
@@ -44,7 +44,7 @@ class GUI:
         Initialize the Graphical User Interface (GUI).
 
         Args:
-            paths (Optional[Dict[str, str]]): A dictionary of paths if already available.
+            paths (Dict[str, str]): The paths dictionary.
             verbose (bool): If True, additional details are printed during operations. Defaults to False.
             _dev (bool): If True, more output.
         """

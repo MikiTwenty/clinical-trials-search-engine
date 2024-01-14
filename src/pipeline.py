@@ -38,14 +38,14 @@ class Pipeline:
     @typechecked
     def __init__(
             self,
-            paths: Optional[Dict[str, str]],
+            paths: Dict[str, str],
             verbose: bool = False
         ) -> None:
         """
         Initialize the Pipeline class.
 
         Args:
-            paths (Optional[Dict[str, str]]): A dictionary of paths if already available.
+            paths (Dict[str, str]): The paths dictionary.
             verbose (bool): If True, additional details are printed during operations. Defaults to False.
         """
 

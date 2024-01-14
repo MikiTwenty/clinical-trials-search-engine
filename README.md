@@ -57,7 +57,7 @@ Initialize the **Graphical User Interface** (powered by [NiceGUI](https://nicegu
 
 **Parameters**
 
-- **```paths```** ```(Optional[Dict[str, str]])```: A dictionary of paths if already available.
+- **```paths```** ```(Dict[str, str])```: The paths dictionary.
 
     The paths keys must be:
 

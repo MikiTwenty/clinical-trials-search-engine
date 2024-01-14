@@ -8,7 +8,7 @@ Clinical Trials Search Engine for Information Retrieval and Recommender System P
 
 This project has been developed for academical purposes only.
 
-This project is released under the [GNU General Public Licence](https://github.com/MikiTwenty/ClinicalTrialsSE/LICENCE).
+This project is released under the [GNU General Public Licence](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/LICENCE).
 
 ---
 
@@ -22,7 +22,7 @@ Clone the repository locally:
 ## Requirements
 
 - **Virtual Environment** with Python >= 3.10
-- Required **Python packeges** (see [requirements.txt](https://github.com/MikiTwenty/ClinicalTrialsSE/rquirements.txt))
+- Required **Python packeges** (see [requirements.txt](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/requirements.txt)).
 - **Java SDK**
 
 ### Download Clinical Bert Model

@@ -1,0 +1,15 @@
+tqdm
+nltk
+torch
+spacy
+pandas
+nicegui
+seaborn
+typeguard
+wordcloud
+pyterrier
+torchaudio
+torchvision
+transformers
+python-terrier
+llama-cpp-python

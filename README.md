@@ -89,7 +89,7 @@ Initialize the SE and start the GUI.
 
 - To use the SE [run.py](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/examples/run.py)
 
-<img src="docs/media/gui.png" width=720></img>
+<img src="docs/media/gui.png"></img>
 
 - To preprocess the data [train.py](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/examples/train.ipynb)
 

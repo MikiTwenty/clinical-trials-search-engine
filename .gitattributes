@@ -1,0 +1,7 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.bf filter=lfs diff=lfs merge=lfs -text
+*.fsomapfile filter=lfs diff=lfs merge=lfs -text
+*.fsomapid filter=lfs diff=lfs merge=lfs -text
+*.idx filter=lfs diff=lfs merge=lfs -text
+*.zdata filter=lfs diff=lfs merge=lfs -text
+*.properties filter=lfs diff=lfs merge=lfs -text

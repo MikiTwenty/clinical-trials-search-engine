@@ -127,6 +127,7 @@ class Transformer:
 
         for token in tokens:
             if not token.is_stop and not token.is_punct:
+                processed_tokens.add(token.lower())
                 processed_tokens.add(token.lemma_.lower())
 
         return ' '.join(processed_tokens)

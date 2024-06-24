@@ -1,4 +1,4 @@
-# ClinicalTrialsSE
+# clinical-trials-search-engine
 
 Clinical Trials Search Engine for Information Retrieval and Recommender System Project
 
@@ -8,7 +8,7 @@ Clinical Trials Search Engine for Information Retrieval and Recommender System P
 
 This project has been developed for academical purposes only.
 
-This project is released under the [GNU General Public Licence](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/LICENSE).
+This project is released under the [GNU General Public Licence](https://github.com/MikiTwenty/clinical-trials-search-engine/blob/main/LICENSE).
 
 ---
 
@@ -16,13 +16,13 @@ This project is released under the [GNU General Public Licence](https://github.c
 
 Clone the repository locally:
 
-- **Git** : ```git clone https://github.com/MikiTwenty/ClinicalTrialsSE```
-- **GitHub** : ```gh repo clone MikiTwenty/ClinicalTrialsSE```
+- **Git** : ```git clone https://github.com/MikiTwenty/clinical-trials-search-engine```
+- **GitHub** : ```gh repo clone MikiTwenty/clinical-trials-search-engine```
 
 ## Requirements
 
 - **Virtual Environment** with Python >= 3.10
-- Required **Python packeges** (see [requirements.txt](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/requirements.txt)).
+- Required **Python packeges** (see [requirements.txt](https://github.com/MikiTwenty/clinical-trials-search-engine/blob/main/requirements.txt)).
 - **Java SDK**
 
 ### Download Clinical Bert Model
@@ -87,11 +87,11 @@ Initialize the SE and start the GUI.
 
 ## Example
 
-- To use the SE [run.py](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/examples/run.py)
+- To use the SE [run.py](https://github.com/MikiTwenty/clinical-trials-search-engine/blob/main/examples/run.py)
 
 <img src="docs/media/gui.png"></img>
 
-- To preprocess the data [train.py](https://github.com/MikiTwenty/ClinicalTrialsSE/blob/main/examples/train.ipynb)
+- To preprocess the data [train.py](https://github.com/MikiTwenty/clinical-trials-search-engine/blob/main/examples/train.ipynb)
 
 ---
 
